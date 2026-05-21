@@ -1,4 +1,3 @@
-```md id="z7m2kp"
 <div align="center">
 
 # 🛒 Real-Time API Product Store
